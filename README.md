@@ -1,6 +1,6 @@
 ### By clicking the link below you can see what the project looks like
 
-**https://niezgodam.github.io/Photo-gallery-using-react-and-tailwindcss/](https://niezgodam.github.io/data-analytics-website-design-react-and-tailwind**
+**https://niezgodam.github.io/data-analytics-website-design-react-and-tailwind**
 
 # Getting Started with Create React App
 
